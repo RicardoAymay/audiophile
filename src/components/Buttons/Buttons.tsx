@@ -1,5 +1,5 @@
 import Image from "next/image";
-import arrow from "../../../assets/starter-code/assets/shared/desktop/icon-arrow-right.svg";
+import arrow from "../../../assets/shared/desktop/icon-arrow-right.svg";
 export const Button1 = () => {
   return (
     <button className="border border-primary-brown-mid font-semibold bg-primary-brown-mid text-white h-10 tracking-wider px-5 hover:bg-primary-beige hover:border-primary-beige transition ">
